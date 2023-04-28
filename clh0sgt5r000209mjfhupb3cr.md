@@ -1,6 +1,7 @@
 ---
 title: "Developing Astro website with AWS Serverless"
 seoTitle: "Developing Astro website with AWS Serverless"
+seoDescription: "A guide to developing Astro static and SSR website and deploying on the AWS Platform"
 datePublished: Fri Apr 28 2023 16:49:19 GMT+0000 (Coordinated Universal Time)
 cuid: clh0sgt5r000209mjfhupb3cr
 slug: developing-astro-website-with-aws-serverless
