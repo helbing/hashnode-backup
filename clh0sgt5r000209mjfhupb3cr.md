@@ -1,6 +1,6 @@
 ---
 title: "Developing Astro website with AWS Serverless"
-seoTitle: "The "SEO Title" will be shown in place of your Title on search engine"
+seoTitle: "Developing Astro website with AWS Serverless"
 datePublished: Fri Apr 28 2023 16:49:19 GMT+0000 (Coordinated Universal Time)
 cuid: clh0sgt5r000209mjfhupb3cr
 slug: developing-astro-website-with-aws-serverless
