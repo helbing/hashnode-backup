@@ -29,6 +29,7 @@ Renovate support group updates, which means that it offers more flexible control
       "groupName": "AWS CDK",
       "groupSlug": "awscdk",
       "matchPackageNames": [
+        "constructs",
         "aws-cdk-lib"
       ],
       "matchPackagePrefixes": [
