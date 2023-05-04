@@ -33,7 +33,8 @@ Renovate support group updates, which means that it offers more flexible control
       ],
       "matchPackagePrefixes": [
         "@aws-cdk/"
-      ]
+      ],
+      "ignoreUnstable": false
     }
   ]
 }
