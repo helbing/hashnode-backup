@@ -37,6 +37,8 @@ For Plop, it didn't provide the repository that we can search the generator from
 
 Yeoman and Plop both provide complete documentation. But the documentation of Yeoman will tell you how to make unit testing. It makes with JavaScript but can help me to make it with TypeScript.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1684744432549/62375be7-6e04-46aa-8cb9-641f9140d8ca.png align="center")
+
 ## Create the testable generator
 
 Yeoman provides the following test tools to help us to create the testable generator.
