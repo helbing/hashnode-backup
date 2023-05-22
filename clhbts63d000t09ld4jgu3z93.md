@@ -10,6 +10,8 @@ tags: yeoman
 
 ---
 
+# Introduction
+
 As we know, it's a laborious thing to generate the codebase from zero to one. There are so many things we need to do, such as lint configuration, DevOps and Pipeline configuration, auto-upgrade dependencies, GitHub issue templates etc. So that is why we need generators to reduce our workloads. In this post, I will make a comparison between [Yeoman](https://yeoman.io/) and [Plop](https://plopjs.com/). They are all popular generator tools.
 
 # Comparison
